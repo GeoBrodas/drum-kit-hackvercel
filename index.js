@@ -66,25 +66,3 @@ function makeSound(key) {
       break;
   }
 }
-
-
-/*function addEventListener(typeOFEvent, callBack){
-
-  var evenThatHappened = {
-    eventType : "keypress",
-    key: "p",
-    durationOfKeyPress: 2
-  }
-
-  if (evenThatHappened.eventType === typeOfEvent){
-   callBack(evenThatHappened);
-  }
-}
-
-addEventListener("keypress", function(){
-    console.log(event);
-  });
-
-
-  =>>> evenThatHappened[eventType, key, durationOfKeyPress];
-*/
